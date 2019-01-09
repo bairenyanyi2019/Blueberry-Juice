@@ -1,0 +1,6 @@
+echo "# Blueberry-Juice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/bairenyanyi2019/Blueberry-Juice.git
+git push -u origin master
